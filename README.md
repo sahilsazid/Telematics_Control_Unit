@@ -1,5 +1,5 @@
 # Telematics_Control_Unit🚀
-
+A Telematics Control Unit (TCU) is an electronic device installed in a vehicle that collects vehicle data, processes it, and communicates it to external systems like cloud platform via cellular networks (4G/5G), and CAN communication. Also GPS is used to track the live location of the vehicle.
 ## Final Year Project 
 
 ### Authors:
