@@ -3,7 +3,7 @@
 ## Final Year Project 
 
 ### Authors:
-🔹 Mohammad Sahil <\br>
+🔹 Mohammad Sahil <br>
 🔸 Utkarsh Patel <br>
 🔹 Sagar Goswami <br>
 
